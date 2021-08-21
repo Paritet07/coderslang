@@ -1,0 +1,1 @@
+export const strings = ['user1', 'user2', 'user22', 'admin', 'adm'];
